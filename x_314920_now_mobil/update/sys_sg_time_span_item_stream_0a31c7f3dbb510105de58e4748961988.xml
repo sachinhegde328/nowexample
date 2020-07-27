@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_time_span_item_stream">
+    <sys_sg_time_span_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="My Meeting (Mobile App Training)">1f908fb3dbb510105de58e47489619f1</data_item>
+        <end_date_field>meeting_end_date_time</end_date_field>
+        <interleaved_field>user</interleaved_field>
+        <name>My Meetings_item stream</name>
+        <start_date_field>meeting_start_date_time</start_date_field>
+        <sys_class_name>sys_sg_time_span_item_stream</sys_class_name>
+        <sys_created_by>Dhanuja</sys_created_by>
+        <sys_created_on>2020-07-11 12:41:17</sys_created_on>
+        <sys_id>0a31c7f3dbb510105de58e4748961988</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>My Meetings_item stream</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_time_span_item_stream_0a31c7f3dbb510105de58e4748961988</sys_update_name>
+        <sys_updated_by>Dhanuja</sys_updated_by>
+        <sys_updated_on>2020-07-11 13:06:40</sys_updated_on>
+        <table>x_314920_now_mobil_mobile_app_meetings</table>
+    </sys_sg_time_span_item_stream>
+</record_update>

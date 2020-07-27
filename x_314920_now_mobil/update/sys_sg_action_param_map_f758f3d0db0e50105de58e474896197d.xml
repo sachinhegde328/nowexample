@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Add Commments">1754bb9cdbca50105de58e474896199b</button>
+        <item_parameter display_value="Comments">fd98b7d0db0e50105de58e47489619b2</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>Dhanuja</sys_created_by>
+        <sys_created_on>2020-07-13 06:00:07</sys_created_on>
+        <sys_id>f758f3d0db0e50105de58e474896197d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fd98b7d0db0e50105de58e47489619b2</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_f758f3d0db0e50105de58e474896197d</sys_update_name>
+        <sys_updated_by>Dhanuja</sys_updated_by>
+        <sys_updated_on>2020-07-13 06:00:07</sys_updated_on>
+        <ui_parameter display_value="Comments">c335fbdcdbca50105de58e4748961938</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

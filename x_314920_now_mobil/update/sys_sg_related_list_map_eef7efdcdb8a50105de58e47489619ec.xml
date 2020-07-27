@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_list_map">
+    <sys_sg_related_list_map action="INSERT_OR_UPDATE">
+        <context_field/>
+        <destination_screen display_value="Incident Task ">e926bbccdb4250105de58e4748961961</destination_screen>
+        <related_list_screen display_value="Related List">0ae76310dbca50105de58e4748961906</related_list_screen>
+        <relationship>incident_task.parent</relationship>
+        <sys_class_name>sys_sg_related_list_map</sys_class_name>
+        <sys_created_by>Sachin</sys_created_by>
+        <sys_created_on>2020-07-13 04:47:11</sys_created_on>
+        <sys_id>eef7efdcdb8a50105de58e47489619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e926bbccdb4250105de58e4748961961</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_related_list_map_eef7efdcdb8a50105de58e47489619ec</sys_update_name>
+        <sys_updated_by>Sachin</sys_updated_by>
+        <sys_updated_on>2020-07-13 04:47:11</sys_updated_on>
+    </sys_sg_related_list_map>
+</record_update>

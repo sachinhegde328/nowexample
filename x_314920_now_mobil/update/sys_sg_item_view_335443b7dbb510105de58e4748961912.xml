@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>meeting_start_date_time-41927,meeting_end_date_time-41928,short_description-32752,number-9763</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":16,"Bottom":16},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Top":3},"CellId":"meeting_start_date_time","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":12},"Width":60,"Text":"PLACEHOLDER","Id":41927},{"Type":"Text","Width":60,"Margin":{"Top":9},"Text":"PLACEHOLDER","CellId":"meeting_end_date_time","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":12},"Id":41928}],"Margin":{},"Width":60,"Id":12259},{"Type":"Text","Margin":{"Right":13,"Left":8},"TextColor":"#ff8c3e","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular"},"CornerRadius":2,"BackgroundColor":"#ff924e","Height":46,"Width":3,"Id":22124},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"medium","Size":16},"CellId":"short_description","Id":32752},{"Type":"ViewGroup","Margin":{"Top":6},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"number","Id":9763}],"Id":34349}],"Margin":{},"Id":12261}],"Id":28090}</item_view_json>
+        <name>My Meetings_item view</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>Dhanuja</sys_created_by>
+        <sys_created_on>2020-07-11 12:56:22</sys_created_on>
+        <sys_id>335443b7dbb510105de58e4748961912</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>My Meetings_item view</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_item_view_335443b7dbb510105de58e4748961912</sys_update_name>
+        <sys_updated_by>Dhanuja</sys_updated_by>
+        <sys_updated_on>2020-07-11 12:58:52</sys_updated_on>
+        <table>x_314920_now_mobil_mobile_app_meetings</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=335443b7dbb510105de58e4748961912"/>
+</record_update>

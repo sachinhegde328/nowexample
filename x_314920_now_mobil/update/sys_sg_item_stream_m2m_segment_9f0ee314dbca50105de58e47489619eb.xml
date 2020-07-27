@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="My Problems Item Stream">db0ee314dbca50105de58e47489619d7</item_stream>
+        <segment display_value="Item Stream Segment">970ee314dbca50105de58e47489619e9</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>Sachin</sys_created_by>
+        <sys_created_on>2020-07-13 05:13:44</sys_created_on>
+        <sys_id>9f0ee314dbca50105de58e47489619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_9f0ee314dbca50105de58e47489619eb</sys_update_name>
+        <sys_updated_by>Sachin</sys_updated_by>
+        <sys_updated_on>2020-07-13 05:13:44</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

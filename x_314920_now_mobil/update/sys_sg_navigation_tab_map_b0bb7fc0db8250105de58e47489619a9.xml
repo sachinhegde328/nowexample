@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Now Agent KGS">6fa17fc8db4250105de58e4748961915</navigation>
+        <navigation_tab display_value="Notifications">11e6705b1c003300964f3fc617b23a8d</navigation_tab>
+        <order>400</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>Sachin</sys_created_by>
+        <sys_created_on>2020-07-12 11:35:13</sys_created_on>
+        <sys_id>b0bb7fc0db8250105de58e47489619a9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_b0bb7fc0db8250105de58e47489619a9</sys_update_name>
+        <sys_updated_by>Manasa</sys_updated_by>
+        <sys_updated_on>2020-07-13 05:24:10</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+</record_update>

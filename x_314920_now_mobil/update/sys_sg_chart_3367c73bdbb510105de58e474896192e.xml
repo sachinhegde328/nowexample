@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen/>
+        <name>Total Number of RITMs</name>
+        <report display_value="Total Number of RITMs">cf0007b3dbb510105de58e47489619a4</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>Manasa</sys_created_by>
+        <sys_created_on>2020-07-11 13:08:27</sys_created_on>
+        <sys_id>3367c73bdbb510105de58e474896192e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Total Number of RITMs</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_chart_3367c73bdbb510105de58e474896192e</sys_update_name>
+        <sys_updated_by>Manasa</sys_updated_by>
+        <sys_updated_on>2020-07-11 13:08:27</sys_updated_on>
+        <title>Total Number of RITMs</title>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

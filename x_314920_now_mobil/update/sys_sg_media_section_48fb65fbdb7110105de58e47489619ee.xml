@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_media_section">
+    <sys_sg_media_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button_instance/>
+        <data_item/>
+        <headline>About KGS</headline>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <image_attachment/>
+        <orientation>horizontal</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_media_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-11 06:29:21</sys_created_on>
+        <sys_id>48fb65fbdb7110105de58e47489619ee</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>About KGS</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_media_section_48fb65fbdb7110105de58e47489619ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-11 06:51:31</sys_updated_on>
+        <table/>
+        <text>KPMG in India is one of the leading providers of risk, financial and business advisory, tax and regulatory services, internal audit, and corporate governance.</text>
+        <title>About KGS</title>
+        <type>video</type>
+        <video_url>https://www.youtube.com/watch?v=JhGp2Knqr7Y</video_url>
+        <visible_condition/>
+    </sys_sg_media_section>
+</record_update>

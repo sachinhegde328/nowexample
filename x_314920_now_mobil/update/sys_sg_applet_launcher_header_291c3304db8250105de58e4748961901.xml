@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header">
+    <sys_sg_applet_launcher_header action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_sg_applet_launcher_header</sys_class_name>
+        <sys_created_by>Sachin</sys_created_by>
+        <sys_created_on>2020-07-12 11:36:35</sys_created_on>
+        <sys_id>291c3304db8250105de58e4748961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hi, ${full_name}</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_header_291c3304db8250105de58e4748961901</sys_update_name>
+        <sys_updated_by>Sachin</sys_updated_by>
+        <sys_updated_on>2020-07-12 11:36:35</sys_updated_on>
+        <text>Hi, ${full_name}</text>
+        <variables/>
+    </sys_sg_applet_launcher_header>
+</record_update>

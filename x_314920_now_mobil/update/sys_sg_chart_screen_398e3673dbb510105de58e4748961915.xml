@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen">
+    <sys_sg_chart_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>Single Score Reports</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Charts Icon">658e3273dbb510105de58e4748961913</icon>
+        <name>Total Number of Incidents</name>
+        <report display_value="Total Number of Incidents">e9df76b3dbb510105de58e47489619f9</report>
+        <roles_override/>
+        <sys_class_name>sys_sg_chart_screen</sys_class_name>
+        <sys_created_by>Manasa</sys_created_by>
+        <sys_created_on>2020-07-11 12:59:48</sys_created_on>
+        <sys_id>398e3673dbb510105de58e4748961915</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Total Number of Incidents</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_chart_screen_398e3673dbb510105de58e4748961915</sys_update_name>
+        <sys_updated_by>Manasa</sys_updated_by>
+        <sys_updated_on>2020-07-11 13:07:08</sys_updated_on>
+        <type>report</type>
+        <use_last_point>true</use_last_point>
+        <widget/>
+    </sys_sg_chart_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=398e3673dbb510105de58e4748961915"/>
+</record_update>

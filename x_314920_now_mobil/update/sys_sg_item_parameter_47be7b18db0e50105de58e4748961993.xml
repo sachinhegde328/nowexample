@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Assigned_to</name>
+        <parent>ac9e7fd4db0e50105de58e47489619a5</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>Dhanuja</sys_created_by>
+        <sys_created_on>2020-07-13 06:26:37</sys_created_on>
+        <sys_id>47be7b18db0e50105de58e4748961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assigned_to</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_47be7b18db0e50105de58e4748961993</sys_update_name>
+        <sys_updated_by>Dhanuja</sys_updated_by>
+        <sys_updated_on>2020-07-13 06:26:37</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>true</available_offline>
+        <header_button display_value="My Info Launcher Button Instance">85fe6e7fdb3510105de58e474896197e</header_button>
+        <header_titles>291c3304db8250105de58e4748961901</header_titles>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>My Info</name>
+        <required_roles/>
+        <search_config display_value="Homepage Search - Catalog and Knowledge">c8a15fd07320330018eea18d4ef6a77a</search_config>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-11 06:29:30</sys_created_on>
+        <sys_id>276b697fdb7110105de58e474896191f</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>KGS Now-Mobile</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_276b697fdb7110105de58e474896191f</sys_update_name>
+        <sys_updated_by>Sachin</sys_updated_by>
+        <sys_updated_on>2020-07-13 07:04:44</sys_updated_on>
+        <title>KGS Now-Mobile</title>
+    </sys_sg_applet_launcher>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>8deaeabbdb3510105de58e47489619f5,0c50d7bfdbb510105de58e4748961981</applets>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>true</hide_header>
+        <hide_section_if_empty>true</hide_section_if_empty>
+        <orientation>horizontal</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>Manasa</sys_created_by>
+        <sys_created_on>2020-07-11 13:15:09</sys_created_on>
+        <sys_id>b309c77bdbb510105de58e47489619e9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Related Details</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_icon_section_b309c77bdbb510105de58e47489619e9</sys_update_name>
+        <sys_updated_by>Dhanuja</sys_updated_by>
+        <sys_updated_on>2020-07-11 13:55:18</sys_updated_on>
+        <table/>
+        <title>Related Details</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

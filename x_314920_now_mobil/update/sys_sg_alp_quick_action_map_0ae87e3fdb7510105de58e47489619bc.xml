@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="KGS Now-Mobile">276b697fdb7110105de58e474896191f</applet_launcher>
+        <order>20</order>
+        <quick_action_button display_value="Report an Issue">fd93f52487203300e0ef0cf888cb0b6f</quick_action_button>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>Dhanuja</sys_created_by>
+        <sys_created_on>2020-07-11 12:04:53</sys_created_on>
+        <sys_id>0ae87e3fdb7510105de58e47489619bc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_0ae87e3fdb7510105de58e47489619bc</sys_update_name>
+        <sys_updated_by>Dhanuja</sys_updated_by>
+        <sys_updated_on>2020-07-11 12:06:11</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+</record_update>

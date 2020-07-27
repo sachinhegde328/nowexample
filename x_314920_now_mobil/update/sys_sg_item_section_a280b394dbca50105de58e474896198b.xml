@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_section">
+    <sys_sg_item_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <data_item/>
+        <destination_screen display_value="My Problems">d30ee314dbca50105de58e47489619d5</destination_screen>
+        <display_title>true</display_title>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <max_items_display_count>15</max_items_display_count>
+        <orientation>horizontal</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_item_section</sys_class_name>
+        <sys_created_by>Sachin</sys_created_by>
+        <sys_created_on>2020-07-13 05:24:36</sys_created_on>
+        <sys_id>a280b394dbca50105de58e474896198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Problems</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_item_section_a280b394dbca50105de58e474896198b</sys_update_name>
+        <sys_updated_by>Sachin</sys_updated_by>
+        <sys_updated_on>2020-07-13 05:24:36</sys_updated_on>
+        <table/>
+        <title>Problems</title>
+        <visible_condition/>
+    </sys_sg_item_section>
+</record_update>

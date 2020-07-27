@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Launcher Button">fcb33673db7510105de58e4748961951</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">f4b33673db7510105de58e474896194f</icon>
+        <label>My Employees Launcher Button Instance</label>
+        <location>top</location>
+        <name>My Employees Launcher Button Instance</name>
+        <order/>
+        <parent>d872b233db7510105de58e47489619c1</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>Manasa</sys_created_by>
+        <sys_created_on>2020-07-11 11:41:50</sys_created_on>
+        <sys_id>b8b33673db7510105de58e4748961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Employees Launcher Button Instance</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_b8b33673db7510105de58e4748961954</sys_update_name>
+        <sys_updated_by>Manasa</sys_updated_by>
+        <sys_updated_on>2020-07-11 11:41:50</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b8b33673db7510105de58e4748961954"/>
+</record_update>

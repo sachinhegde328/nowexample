@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen/>
+        <name>Incidents this week</name>
+        <report display_value="Incident this week">b40a3f14db0e50105de58e474896191c</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>Sachin</sys_created_by>
+        <sys_created_on>2020-07-13 06:10:27</sys_created_on>
+        <sys_id>68faf754db0e50105de58e47489619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incidents this week</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_chart_68faf754db0e50105de58e47489619b8</sys_update_name>
+        <sys_updated_by>Sachin</sys_updated_by>
+        <sys_updated_on>2020-07-13 06:10:27</sys_updated_on>
+        <title/>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

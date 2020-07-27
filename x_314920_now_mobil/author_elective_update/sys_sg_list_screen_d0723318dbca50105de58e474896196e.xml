@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">1fb20a44c77f33003f880d8c95c26014</icon>
+        <name>My Major Incidents</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>Manasa</sys_created_by>
+        <sys_created_on>2020-07-13 05:34:11</sys_created_on>
+        <sys_id>d0723318dbca50105de58e474896196e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My Major Incidents</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_list_screen_d0723318dbca50105de58e474896196e</sys_update_name>
+        <sys_updated_by>Manasa</sys_updated_by>
+        <sys_updated_on>2020-07-13 05:39:00</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=d0723318dbca50105de58e474896196e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</application>
+        <file_path/>
+        <instance_id>ebfb28ffdbc67f4c0b9d21c405961920</instance_id>
+        <instance_name>dev88623</instance_name>
+        <name>sys_sg_list_screen_d0723318dbca50105de58e474896196e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Address-Book">1fb20a44c77f33003f880d8c95c26014</icon><name>My Major Incidents</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>Manasa</sys_created_by><sys_created_on>2020-07-13 05:34:11</sys_created_on><sys_id>d0723318dbca50105de58e474896196e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>My Major Incidents</sys_name><sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package><sys_policy/><sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope><sys_update_name>sys_sg_list_screen_d0723318dbca50105de58e474896196e</sys_update_name><sys_updated_by>Manasa</sys_updated_by><sys_updated_on>2020-07-13 05:39:00</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=d0723318dbca50105de58e474896196e"/></record_update>]]></payload>
+        <payload_hash>-1899249893</payload_hash>
+        <record_name>My Major Incidents</record_name>
+        <reverted_from/>
+        <source>1f513f88db4250105de58e4748961957</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Manasa</sys_created_by>
+        <sys_created_on>2020-07-13 05:39:00</sys_created_on>
+        <sys_id>91d3b39cdbca50105de58e474896195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17346aefe8a0000001</sys_recorded_at>
+        <sys_updated_by>Manasa</sys_updated_by>
+        <sys_updated_on>2020-07-13 05:39:00</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>1dd3b39ceeca5010feb961497e97f35a</update_guid>
+        <update_guid_history>1dd3b39ceeca5010feb961497e97f35a:-1899249893,76b2731856ca5010eaa27624f5826e0e:59566089</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Dhanuja</sys_created_by>
+        <sys_created_on>2020-07-13 05:53:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>2d1744a63269426a98cb064607c8c5a4</sys_id>
+        <sys_metadata>d0723318dbca50105de58e474896196e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Major Incidents</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_scope_delete display_value="">6eb43d2e3c874dc6bd9f4d697089b4f1</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_d0723318dbca50105de58e474896196e</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_d0723318dbca50105de58e474896196e">91d3b39cdbca50105de58e474896195b</sys_update_version>
+        <sys_updated_by>Dhanuja</sys_updated_by>
+        <sys_updated_on>2020-07-13 05:53:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

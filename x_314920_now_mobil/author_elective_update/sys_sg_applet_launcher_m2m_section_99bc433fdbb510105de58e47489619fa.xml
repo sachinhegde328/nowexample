@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Employee Location">d872b233db7510105de58e47489619c1</applet_launcher>
+        <order>20</order>
+        <section display_value="Locate Employee">1dbc8ffbdbb510105de58e4748961991</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>Manasa</sys_created_by>
+        <sys_created_on>2020-07-11 13:31:05</sys_created_on>
+        <sys_id>99bc433fdbb510105de58e47489619fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_99bc433fdbb510105de58e47489619fa</sys_update_name>
+        <sys_updated_by>Manasa</sys_updated_by>
+        <sys_updated_on>2020-07-11 13:31:05</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</application>
+        <file_path/>
+        <instance_id>ebfb28ffdbc67f4c0b9d21c405961920</instance_id>
+        <instance_name>dev88623</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_99bc433fdbb510105de58e47489619fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="Employee Location">d872b233db7510105de58e47489619c1</applet_launcher><order>20</order><section display_value="Locate Employee">1dbc8ffbdbb510105de58e4748961991</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>Manasa</sys_created_by><sys_created_on>2020-07-11 13:31:05</sys_created_on><sys_id>99bc433fdbb510105de58e47489619fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package><sys_policy/><sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_99bc433fdbb510105de58e47489619fa</sys_update_name><sys_updated_by>Manasa</sys_updated_by><sys_updated_on>2020-07-11 13:31:05</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-253635366</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3a2665bbdb7110105de58e4748961980</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Manasa</sys_created_by>
+        <sys_created_on>2020-07-11 13:31:05</sys_created_on>
+        <sys_id>95bc433fdbb510105de58e47489619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1733e127aec0000001</sys_recorded_at>
+        <sys_updated_by>Manasa</sys_updated_by>
+        <sys_updated_on>2020-07-11 13:31:05</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>ddbc433fdbb51010b416e1c22f0e13fb</update_guid>
+        <update_guid_history>ddbc433fdbb51010b416e1c22f0e13fb:-253635366</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Dhanuja</sys_created_by>
+        <sys_created_on>2020-07-11 13:35:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>0df5b9b59f5043349e1f3052ee159e44</sys_id>
+        <sys_metadata>99bc433fdbb510105de58e47489619fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_scope_delete display_value="">6eb43d2e3c874dc6bd9f4d697089b4f1</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_99bc433fdbb510105de58e47489619fa</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_99bc433fdbb510105de58e47489619fa">95bc433fdbb510105de58e47489619fc</sys_update_version>
+        <sys_updated_by>Dhanuja</sys_updated_by>
+        <sys_updated_on>2020-07-11 13:35:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

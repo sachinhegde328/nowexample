@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="My Approvals Item Stream">c93cdabfdbf110105de58e474896194f</item_stream>
+        <master_item display_value="My Approvals Master Item">413cdabfdbf110105de58e4748961978</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>Dhanuja</sys_created_by>
+        <sys_created_on>2020-07-11 09:59:10</sys_created_on>
+        <sys_id>4d3cdabfdbf110105de58e474896197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_4d3cdabfdbf110105de58e474896197f</sys_update_name>
+        <sys_updated_by>Dhanuja</sys_updated_by>
+        <sys_updated_on>2020-07-11 09:59:10</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

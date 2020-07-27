@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description>Reassign Problem</description>
+        <execution_script/>
+        <name>Reassign</name>
+        <query_condition table="problem">stateIN101,102,103,104^EQ<item display_value="101,102,103,104" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="101,102,103,104"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>Dhanuja</sys_created_by>
+        <sys_created_on>2020-07-13 06:25:55</sys_created_on>
+        <sys_id>ac9e7fd4db0e50105de58e47489619a5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Reassign</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_ac9e7fd4db0e50105de58e47489619a5</sys_update_name>
+        <sys_updated_by>Dhanuja</sys_updated_by>
+        <sys_updated_on>2020-07-13 06:42:34</sys_updated_on>
+        <table>problem</table>
+        <template>assignment_group={{Assignment_Group}}^assigned_to={{Assigned_to}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=ac9e7fd4db0e50105de58e47489619a5"/>
+</record_update>

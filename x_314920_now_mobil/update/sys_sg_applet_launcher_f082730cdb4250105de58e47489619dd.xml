@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>true</available_offline>
+        <header_button/>
+        <header_titles>291c3304db8250105de58e4748961901</header_titles>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Home Agent</name>
+        <required_roles/>
+        <search_config display_value="ITSM Mobile Agent Search">b1a3c18a53233300f18dddeeff7b12f5</search_config>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>Sachin</sys_created_by>
+        <sys_created_on>2020-07-12 10:54:45</sys_created_on>
+        <sys_id>f082730cdb4250105de58e47489619dd</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Home-Agent</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_f082730cdb4250105de58e47489619dd</sys_update_name>
+        <sys_updated_by>Sachin</sys_updated_by>
+        <sys_updated_on>2020-07-12 11:36:46</sys_updated_on>
+        <title>Home-Agent</title>
+    </sys_sg_applet_launcher>
+</record_update>

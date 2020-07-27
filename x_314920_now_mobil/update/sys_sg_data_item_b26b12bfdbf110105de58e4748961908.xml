@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>The Approval’s that are their in the logged in User Queue</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>My Approvals(approvals in logged user's queue)</name>
+        <query_condition table="sysapproval_approver">approverDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="approver" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>Dhanuja</sys_created_by>
+        <sys_created_on>2020-07-11 09:55:44</sys_created_on>
+        <sys_id>b26b12bfdbf110105de58e4748961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Approvals(approvals in logged user's queue)</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_data_item_b26b12bfdbf110105de58e4748961908</sys_update_name>
+        <sys_updated_by>Dhanuja</sys_updated_by>
+        <sys_updated_on>2020-07-11 09:55:44</sys_updated_on>
+        <table>sysapproval_approver</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=b26b12bfdbf110105de58e4748961908"/>
+</record_update>

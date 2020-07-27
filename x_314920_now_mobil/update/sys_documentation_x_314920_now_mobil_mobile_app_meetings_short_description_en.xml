@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="short_description" label="Short description" language="en" table="x_314920_now_mobil_mobile_app_meetings">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <help/>
+            <hint/>
+            <label>Short description</label>
+            <language>en</language>
+            <name>x_314920_now_mobil_mobile_app_meetings</name>
+            <plural>Short descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Dhanuja</sys_created_by>
+            <sys_created_on>2020-07-11 12:33:52</sys_created_on>
+            <sys_id>5f9f72b3dbb510105de58e4748961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Short description</sys_name>
+            <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+            <sys_update_name>sys_documentation_x_314920_now_mobil_mobile_app_meetings_short_description_en</sys_update_name>
+            <sys_updated_by>Dhanuja</sys_updated_by>
+            <sys_updated_on>2020-07-11 12:33:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

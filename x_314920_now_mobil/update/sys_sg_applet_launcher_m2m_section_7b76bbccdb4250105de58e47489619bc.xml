@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Home-Agent">f082730cdb4250105de58e47489619dd</applet_launcher>
+        <order>200</order>
+        <section display_value="Unassigned Tickets">d59a73c0db8250105de58e4748961930</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>Sachin</sys_created_by>
+        <sys_created_on>2020-07-12 11:30:30</sys_created_on>
+        <sys_id>7b76bbccdb4250105de58e47489619bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_7b76bbccdb4250105de58e47489619bc</sys_update_name>
+        <sys_updated_by>Sachin</sys_updated_by>
+        <sys_updated_on>2020-07-12 11:30:30</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

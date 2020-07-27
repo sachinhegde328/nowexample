@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Inc">c90601e9db8210105de58e474896193b</item_parameter>
+        <screen display_value="Tasks Incident">484681e9db8210105de58e47489619cb</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>Sachin</sys_created_by>
+        <sys_created_on>2020-07-16 14:18:34</sys_created_on>
+        <sys_id>698709a9db8210105de58e4748961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c90601e9db8210105de58e474896193b</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_698709a9db8210105de58e4748961936</sys_update_name>
+        <sys_updated_by>Sachin</sys_updated_by>
+        <sys_updated_on>2020-07-16 14:18:34</sys_updated_on>
+        <ui_parameter display_value="Inc">6a4709e9db8210105de58e4748961933</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

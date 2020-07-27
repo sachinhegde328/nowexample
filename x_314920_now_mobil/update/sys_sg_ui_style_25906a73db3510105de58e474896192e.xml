@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style">
+    <sys_sg_ui_style action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="sysapproval_approver">state=rejected^EQ<item display_value="Rejected" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="rejected"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <field>state</field>
+        <item_vew display_value="My Approvals Item View">7c3c12bfdbf110105de58e4748961980</item_vew>
+        <item_view_element>3484</item_view_element>
+        <name>State (My Approvals)</name>
+        <style>{"background_color":"#97c4db","font_color":"#333300"}</style>
+        <sys_class_name>sys_sg_ui_style</sys_class_name>
+        <sys_created_by>Dhanuja</sys_created_by>
+        <sys_created_on>2020-07-11 10:18:19</sys_created_on>
+        <sys_id>25906a73db3510105de58e474896192e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>State (My Approvals)</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_ui_style_25906a73db3510105de58e474896192e</sys_update_name>
+        <sys_updated_by>Dhanuja</sys_updated_by>
+        <sys_updated_on>2020-07-11 10:18:19</sys_updated_on>
+        <table>sysapproval_approver</table>
+        <use_item_view_elements>true</use_item_view_elements>
+    </sys_sg_ui_style>
+</record_update>

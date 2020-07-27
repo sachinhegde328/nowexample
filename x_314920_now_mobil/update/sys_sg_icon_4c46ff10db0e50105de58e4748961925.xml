@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon/>
+        <name>My Major Incidents Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>Sachin</sys_created_by>
+        <sys_created_on>2020-07-13 05:49:33</sys_created_on>
+        <sys_id>4c46ff10db0e50105de58e4748961925</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Major Incidents Icon</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_icon_4c46ff10db0e50105de58e4748961925</sys_update_name>
+        <sys_updated_by>Sachin</sys_updated_by>
+        <sys_updated_on>2020-07-13 05:49:33</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

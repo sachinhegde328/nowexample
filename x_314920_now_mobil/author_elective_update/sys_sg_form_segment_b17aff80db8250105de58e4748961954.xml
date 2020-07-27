@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="DELETE">
+        <embedded_screen display_value="Details">b97aff80db8250105de58e4748961951</embedded_screen>
+        <form display_value="Unassigned Tickets">717aff80db8250105de58e474896194f</form>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>Sachin</sys_created_by>
+        <sys_created_on>2020-07-12 11:29:29</sys_created_on>
+        <sys_id>b17aff80db8250105de58e4748961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_form_segment_b17aff80db8250105de58e4748961954</sys_update_name>
+        <sys_updated_by>Sachin</sys_updated_by>
+        <sys_updated_on>2020-07-12 11:29:29</sys_updated_on>
+    </sys_sg_form_segment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</application>
+        <file_path/>
+        <instance_id>ebfb28ffdbc67f4c0b9d21c405961920</instance_id>
+        <instance_name>dev88623</instance_name>
+        <name>sys_sg_form_segment_b17aff80db8250105de58e4748961954</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment"><sys_sg_form_segment action="INSERT_OR_UPDATE"><embedded_screen display_value="Details">b97aff80db8250105de58e4748961951</embedded_screen><form display_value="Unassigned Tickets">717aff80db8250105de58e474896194f</form><order>10</order><sys_class_name>sys_sg_form_segment</sys_class_name><sys_created_by>Sachin</sys_created_by><sys_created_on>2020-07-12 11:29:29</sys_created_on><sys_id>b17aff80db8250105de58e4748961954</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package><sys_policy/><sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope><sys_update_name>sys_sg_form_segment_b17aff80db8250105de58e4748961954</sys_update_name><sys_updated_by>Sachin</sys_updated_by><sys_updated_on>2020-07-12 11:29:29</sys_updated_on></sys_sg_form_segment></record_update>]]></payload>
+        <payload_hash>181648159</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1f513f88db4250105de58e4748961957</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Sachin</sys_created_by>
+        <sys_created_on>2020-07-12 11:29:29</sys_created_on>
+        <sys_id>b17aff80db8250105de58e4748961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17342c984610000001</sys_recorded_at>
+        <sys_updated_by>Sachin</sys_updated_by>
+        <sys_updated_on>2020-07-12 11:29:29</sys_updated_on>
+        <type>Form Screen Segment</type>
+        <update_guid>f97aff80558250101043ae27728c7955</update_guid>
+        <update_guid_history>f97aff80558250101043ae27728c7955:181648159</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Sachin</sys_created_by>
+        <sys_created_on>2020-07-13 04:47:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_form_segment">sys_sg_form_segment</sys_db_object>
+        <sys_id>45ecf4c4cdc34dbcbda254561f351210</sys_id>
+        <sys_metadata>b17aff80db8250105de58e4748961954</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_scope_delete display_value="">6eb43d2e3c874dc6bd9f4d697089b4f1</sys_scope_delete>
+        <sys_update_name>sys_sg_form_segment_b17aff80db8250105de58e4748961954</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_segment_b17aff80db8250105de58e4748961954">b17aff80db8250105de58e4748961956</sys_update_version>
+        <sys_updated_by>Sachin</sys_updated_by>
+        <sys_updated_on>2020-07-13 04:47:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

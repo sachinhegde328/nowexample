@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">22c47137dbb110105de58e4748961946</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">2ec47137dbb110105de58e4748961943</icon>
+        <label>My Info Launcher Button Instance</label>
+        <location>top</location>
+        <name>My Info Launcher Button Instance</name>
+        <order/>
+        <parent>276b697fdb7110105de58e474896191f</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-11 07:06:58</sys_created_on>
+        <sys_id>2ec47137dbb110105de58e4748961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Info Launcher Button Instance</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_2ec47137dbb110105de58e4748961948</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-11 07:06:58</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=2ec47137dbb110105de58e4748961948"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</application>
+        <file_path/>
+        <instance_id>ebfb28ffdbc67f4c0b9d21c405961920</instance_id>
+        <instance_name>dev88623</instance_name>
+        <name>sys_sg_button_instance_2ec47137dbb110105de58e4748961948</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">22c47137dbb110105de58e4748961946</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">2ec47137dbb110105de58e4748961943</icon><label>My Info Launcher Button Instance</label><location>top</location><name>My Info Launcher Button Instance</name><order/><parent>276b697fdb7110105de58e474896191f</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-11 07:06:58</sys_created_on><sys_id>2ec47137dbb110105de58e4748961948</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Info Launcher Button Instance</sys_name><sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package><sys_policy/><sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope><sys_update_name>sys_sg_button_instance_2ec47137dbb110105de58e4748961948</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-11 07:06:58</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=2ec47137dbb110105de58e4748961948"/></record_update>]]></payload>
+        <payload_hash>-520899740</payload_hash>
+        <record_name>My Info Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>3a2665bbdb7110105de58e4748961980</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-11 07:06:58</sys_created_on>
+        <sys_id>a2c47137dbb110105de58e474896194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1733cb2d0640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-11 07:06:58</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>eac4713760b11010c4f919372f36654a</update_guid>
+        <update_guid_history>eac4713760b11010c4f919372f36654a:-520899740</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Manasa</sys_created_by>
+        <sys_created_on>2020-07-11 11:21:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>7459070902f44db681333eae833db1a4</sys_id>
+        <sys_metadata>2ec47137dbb110105de58e4748961948</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Info Launcher Button Instance</sys_name>
+        <sys_package display_value="Now Mobile" source="x_314920_now_mobil">e4d5adb7db7110105de58e47489619e7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile">e4d5adb7db7110105de58e47489619e7</sys_scope>
+        <sys_scope_delete display_value="">6eb43d2e3c874dc6bd9f4d697089b4f1</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_2ec47137dbb110105de58e4748961948</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_2ec47137dbb110105de58e4748961948">a2c47137dbb110105de58e474896194b</sys_update_version>
+        <sys_updated_by>Manasa</sys_updated_by>
+        <sys_updated_on>2020-07-11 11:21:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
